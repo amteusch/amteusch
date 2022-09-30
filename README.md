@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Utah Approves](https://utahapproves.org/)
 
-- 📝 I occasionally write articles on [adamteuscher.com](adamteuscher.com)
+- 📝 I occasionally write articles on [my website](adamteuscher.com)
 
 - 💬 Ask me about **Python, deep learning**
 
