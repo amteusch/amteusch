@@ -1,5 +1,5 @@
 ![Header](./header.png)
-<h3 align="center">interested in machine learning and crypto, politics, investing and more</h3>
+<h3 align="center">interested in machine learning, crypto, politics, investing and more</h3>
 
 - 🔭 I’m currently working at [Smart Vision Works](https://www.smartvisionworks.com/)
 
