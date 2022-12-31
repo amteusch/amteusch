@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at [Smart Vision Works](https://www.smartvisionworks.com/)
 
-- 🌱 I’m currently learning **Svelte, Solidity**
+- 🌱 I’m currently learning **Svelte, Vyper**
 
-- 🤝 I’m looking for help with [Utah Approves](https://utahapproves.org/)
+- 🤝 I’m looking for help with [Utah Approves](https://utahapproves.org/), [Forward Utah](https://www.forwardparty.com/utah)
 
 - 📝 I occasionally write articles on [my website](https://adamteuscher.com/)
 
